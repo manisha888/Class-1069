@@ -1,2 +1,2 @@
-# Class-1069
+# Homework1
 Demo for the Git Commands on master
